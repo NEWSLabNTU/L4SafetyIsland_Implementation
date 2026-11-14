@@ -17,6 +17,7 @@
     "devicetree",
     "eabihf",
     "empy",
+    "geofence",
     "idents",
     "ifdef",
     "NETC",
@@ -24,6 +25,7 @@
     "nros",
     "rclrs",
     "Renesas",
+    "requalified",
     "rustdoc",
     "RUSTDOCFLAGS",
     "xrce"
